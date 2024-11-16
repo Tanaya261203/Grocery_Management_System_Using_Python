@@ -3,3 +3,5 @@
 •	Features:
 •	Admin Login: Provides full control to add, update, and delete products and employees, and manage billing operations.
 •	Employee Login: Restricted to generating, saving, deleting, and printing bills in TXT format.
+
+license MIT
